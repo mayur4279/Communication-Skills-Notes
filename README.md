@@ -1,6 +1,6 @@
-# English Grammar Notes: Verbs and Tenses
+## Communication Notes  
 
-## Be Verb
+### Be Verb
 
 * **Base Form:** `be`
   * Used in various sentences:
@@ -19,16 +19,16 @@
   * I have been working with AWS for over a year, which is why I am comfortable with AWS Cloud. (Action still running)
   * We had been deployed applications using Kubernetes, ensuring high availability and scalability. (Action completed)
 
-## Be Verb in Past & Future
+### Be Verb in Past & Future
 
-### Past
+#### Past
 * In my latest company, I am being responsible for managing AWS infrastructure with Terraform.
 * I have been responsible for managing Linux servers. (Action running)
 
-### Future
+#### Future
 * If I join your company, I will be using my skills to improve your application deployment process.
 
-## Use of This, These
+### Use of This, These
 
 * **This:** Refers to a single person, object, or idea
   * This pipeline needs to be optimized because it takes too much time.
@@ -42,7 +42,7 @@
   * These Linux tools are really important for troubleshooting.
   * These containers are all part of the microservices architecture.
 
-## Use of That, Those
+### Use of That, Those
 
 * **That:** Refers to a single person, object, or idea that is farther away from the speaker
   * That script needs to be revised to avoid deployment errors.
@@ -54,7 +54,7 @@
   * Those subnets are not public.
   * Those cronjobs are not working properly.
 
-## Use of Have (I, you, we, they)
+### Use of Have (I, you, we, they)
 
 * "Have" is used to show ownership.
   * I have created infrastructure in the form of code using Terraform, mainly on AWS.
@@ -64,7 +64,7 @@
   * Maybe the developer hasn't configured the security group properly.
   * I haven't done this step practically yet, but I am familiar with this concept.
 
-## Use of Has (he, she, it)
+### Use of Has (he, she, it)
 
 * "Has" is used to show ownership.
   * The DevOps engineers have extensive experience with CI/CD pipelines.
@@ -72,52 +72,52 @@
   * The organization has multiple AWS accounts to manage different environments.
   * The Linux server has 16GB storage capacity.
 
-## Use of Had
+### Use of Had
 
 * "Had" is used to show past ownership or possession.
   * We had already worked on this pipeline and also optimized it.
   * Me and my team members had already worked with different OS like Ubuntu, Amazon-Linux, CentOS.
   * I had worked with VPC service.
 
-## Use of Will Have
+### Use of Will Have
 
 * "Will have" is used to describe something that will be finished by a certain time in the future.
   * After completing this interview, I will definitely look into this concept.
   * By tomorrow, we will have automated all deployment processes.
 
-## Use of There
+### Use of There
 
 * "There" is used to state that something exists or happens.
   * There is a bug in the deployment script.
 
-## Use of Want
+### Use of Want
 
 * Example: Because we want to scale our AWS infrastructure to handle more traffic.
 
-## Use of Wanted
+### Use of Wanted
 
 * Example: I wanted to use Kubernetes for our project, but my company didn't give me permission because I joined as an intern there and they couldn't believe in my skills.
 
-## Use of Let
+### Use of Let
 
 * "Let" is used to allow someone to do something or to give permission.
   * Let me handle the deployment process. (Let them handle the deployment process today.)
   * Let them access the new S3 bucket to access the logs.
   * Let the user have sudo access to the server.
 
-## Use of Let's
+### Use of Let's
 
 * "Let's" is often used to suggest an action that the speaker and others should do together.
   * Let's deploy the new version of the application tonight. (Let's do it)
   * Let's configure the EC2 instances now.
   * Let's review the Linux notes today.
 
-## Use of Would Like to
+### Use of Would Like to
 
 * "Would like to" is commonly used to express what someone wants or prefers to do in a polite manner.
   * I would like to automate the process using CI/CD tool called Jenkins.
 
-## Modals (will, would, may, might, can, could, must)
+### Modals (will, would, may, might, can, could, must)
 
 * **Will:** I will deploy the application next week.
 * **Would:** Would you please review the pipeline?
@@ -126,9 +126,9 @@
 * **Can:** Can you please elaborate?
 * **Could:** Could you please review the configuration changes?
 
-## Required Tense
+### Required Tense
 
-### Present Tense
+#### Present Tense
 
 * **Simple Present:** Used for scientific facts, universal truths, and daily work.
   * She writes a letter.
@@ -139,7 +139,7 @@
 * **Present Perfect Continuous:** Used for actions started in the past and still continuing.
   * She has been writing a letter.
 
-### Past Tense
+#### Past Tense
 
 * **Simple Past:** Used for actions completed in the past.
   * She wrote a letter.
@@ -150,7 +150,7 @@
 * **Past Perfect Continuous:** Used for actions that began before a certain point in the past and continued up to some time in the past.
   * She had been writing a letter.
 
-### Future Tense
+#### Future Tense
 
 * **Simple Future:** Used for actions that will happen in the future.
   * She will write a letter.
@@ -161,43 +161,108 @@
 * **Future Perfect Continuous:** Used for actions that will commence at a fixed time in the future and continue for some time in the future.
   * She will have been writing a letter.
 
-## Use of Had to
+### Use of Had to
 
 * "Had to" is used to express a necessity or obligation that occurred in the past.
   * I had to migrate the application to a new AWS region.
 
-## Use of Will Have to
+### Use of Will Have to
 
 * "Will have to" is used to indicate a future necessity or obligation.
   * We will have to upgrade our Jenkins server to support the latest plugins.
 
-## Use of Going to
+### Use of Going to
 
 * "Going to" is used to talk about plans or intentions for the future.
   * We're going to deploy the new Docker containers this weekend.
 
-## Use of Fond of
+### Use of Fond of
 
 * "Fond of" expresses a liking or preference for something.
   * I am fond of using Terraform for infrastructure as code because of its flexibility.
 
-## Use of Want to, Wants to
+### Use of Want to, Wants to
 
 * "Want to" and "wants to" express desires or intentions.
   * I want to optimize our AWS cost management strategies.
   * The team wants to streamline the deployment process.
 
-## Use of Wanted to
+### Use of Wanted to
 
 * "Wanted to" is used to describe a past desire or intention that was not fulfilled.
   * I wanted to deploy the new version of the application yesterday, but there were network issues.
 
-## Use of About to
+### Use of About to
 
 * "About to" is used to describe something that is going to happen very soon.
   * We are about to start the scheduled maintenance on our Linux servers.
 
-## Use of Need to
+### Use of Need to
 
 * "Need to" expresses a necessity or requirement.
   * We need to update our Kubernetes configurations to support the
+
+### Use of Make and & get 
+
+* Make" is used to cause something to happen, while "get" is used to obtain something.  
+  * Make:
+     * example: "We need to make sure that all security groups are configured correctly before launching the application."
+
+  * Get:
+     * example: "We need to get the latest logs from the AWS CloudWatch to troubleshoot the issue."
+
+
+### Did and Didn't 
+
+* "Did" is used to form questions or emphasize actions in the past, while "didn't" is used to negate actions in the past.
+
+  * Did:
+     * Example: "Did you update the Ansible playbook for the new environment?"
+
+   * Didn't: 
+     * Example: "I didn’t apply the latest patches to the Linux servers last week."
+
+
+### Use of Prepositions 
+
+* Prepositions (e.g., "for," "in") indicate relationships between elements in a sentence.  
+   * We need to configure security groups for the EC2 instances in the VPC.  
+
+---   
+
+
+### Tense Conjugation Table
+
+| **Pronoun** | **Present Tense** | **Past Tense** | **Future Tense** |
+|-------------|-------------------|----------------|------------------|
+| I           | I am              | I was          | I will           |
+| he/she/it   | he/she/it is      | he/she/it was  | he/she/it will   |
+| they        | they are          | they were      | they shall       |
+
+
+### Verb Forms
+
+- **Present Tense**: Uses the base form of the verb with the addition of `-ing` for continuous actions.
+  - **Example**: "I am working."
+  
+- **Past Tense**: Often uses the verb with `-ed` to indicate an action that has already occurred.
+  - **Example**: "I worked."
+
+- **Future Tense**: Typically uses the base form of the verb with auxiliary verbs like "will" or "shall."
+  - **Example**: "I will work."
+
+### Usage Summary
+
+- **Present Tense**: Describes actions happening right now or general truths.
+- **Past Tense**: Describes actions that have already happened.
+- **Future Tense**: Describes actions that will happen.
+
+---   
+
+__Important Lines to Remember while learning english skill__   
+
+1. english is not the barrier it is just a skill that we improve day by day only while speaking. 
+2. Reconizing the pattern of sentences is important and this is only possible when we learn to listent from others,   
+   this is the only way to learn the english speaking skill.    
+ 
+
